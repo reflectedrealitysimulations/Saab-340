@@ -1,4 +1,4 @@
-# SAAB 340 Speed Cards
+# SAAB 340A Speed Cards
 
 ----
 Speed cards and basic supporting documentation for the Leading Edge Simulations SAAB 340A.
